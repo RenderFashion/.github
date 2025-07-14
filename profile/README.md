@@ -1,4 +1,4 @@
-# RenderFashion: Your Digital Fashion Publishing Pipeline
+# RenderFashion: Digital Fashion Publishing Pipeline
 
 RenderFashion is at the forefront of the digital fashion revolution. Our platform provides a seamless pipeline for designers, brands, and users to create, curate, and experience fashion in the digital realm. 
 
